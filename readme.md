@@ -6,7 +6,8 @@ A curated list of helpful resin.io resources.
 
 Boilerplate projects for understanding and getting started with different resin.io features.
 
-* [Simple Server Python](https://github.com/resin-io-projects/simple-server-python), A simple Hello World server with Python Flask.
+* [Idling](https://github.com/resin-io-projects/resin-idling), likely the most minimal resin.io project, for the most barebones & quickest way to get started
+* [Simple Server Python](https://github.com/resin-io-projects/simple-server-python), a simple Hello World server with Python Flask.
 * [Simple Server Node.js](https://github.com/resin-io-projects/simple-server-node), a simple express server with resin.io.
 * [Rust Hello World](https://github.com/resin-io-projects/resin-rust-hello-world), Example of how to deploy Rust code on a resin.io supported device.
 * [Timezone](https://github.com/resin-io-playground/resin-timezone), example to set the timezone on a resin.io device.
