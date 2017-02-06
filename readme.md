@@ -9,13 +9,21 @@ Boilerplate projects for understanding and getting started with different resin.
 * [Idling](https://github.com/resin-io-projects/resin-idling), likely the most minimal resin.io project, for the most barebones & quickest way to get started
 * [Simple Server Python](https://github.com/resin-io-projects/simple-server-python), a simple Hello World server with Python Flask.
 * [Simple Server Node.js](https://github.com/resin-io-projects/simple-server-node), a simple express server with resin.io.
-* [Rust Hello World](https://github.com/resin-io-projects/resin-rust-hello-world), Example of how to deploy Rust code on a resin.io supported device.
+* [Rust Hello World](https://github.com/resin-io-projects/resin-rust-hello-world), example of how to deploy Rust code on a resin.io supported device.
+* [C++ Hello World](https://github.com/resin-io-projects/resin-cpp-hello-world), example of how to deploy C++ code on a resin.io supported device.
 * [Timezone](https://github.com/resin-io-playground/resin-timezone), example to set the timezone on a resin.io device.
+* [resin-wifi-connect](https://github.com/resin-io/resin-wifi-connect), an n app skeleton/addon to allow WiFi configuration to be set via a captive portal, besides your normal application.
 
 ## Fullfledged Projects
 
 * [Boombeastic](https://github.com/resin-io-projects/boombeastic), a Raspberry Pi based smart connected speaker based on Mopidy.
 * [resin-electronjs](https://github.com/resin-io/resin-electronjs), a electronJS-based resin application template which can be used for easy digital signage or dashboard setup.
+
+## Software Development Kit
+
+* [Node.js SDK](https://github.com/resin-io/resin-sdk)
+* [Python SDK](https://github.com/resin-io/resin-sdk-python)
+* [Go SDK](https://github.com/gernest/resingo) (unofficial)
 
 ## Resin.io Platform Components
 
