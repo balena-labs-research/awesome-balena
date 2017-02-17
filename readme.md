@@ -16,20 +16,38 @@ Boilerplate projects for understanding and getting started with different resin.
 
 ## Fullfledged Projects
 
+Full projects built on top of resin.io:
+
 * [Boombeastic](https://github.com/resin-io-projects/boombeastic), a Raspberry Pi based smart connected speaker based on Mopidy.
 * [resin-electronjs](https://github.com/resin-io/resin-electronjs), a electronJS-based resin application template which can be used for easy digital signage or dashboard setup.
 
 ## Software Development Kit
 
+Collection of Software Development Kits to interact with the resin.io platform programically:
+
 * [Node.js SDK](https://github.com/resin-io/resin-sdk)
 * [Python SDK](https://github.com/resin-io/resin-sdk-python)
 * [Go SDK](https://github.com/gernest/resingo) (unofficial)
+
+## Blogposts
+
+Blogposts that are great tutorial for resin.io or describe interesting projects to learn from:
+
+* Getting started:
+  * [Take Resin.io for a test-drive](http://blog.alexellis.io/resin-io-test-drive/)
+* Distributed compute service with OpenWisk:
+  * Part 1 - [Exploring interoperability between OpenWhisk and resin.io for IoT](https://medium.com/openwhisk/exploring-interoperability-between-openwhisk-and-resin-io-for-iot-3d6f7facd23b),
+  * Part 2 - [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de)
 
 ## Resin.io Platform Components
 
 * [meta-resin](https://github.com/resin-os/meta-resin), a Yocto layer used to build resin.io operating system images
 * [resin.io base images](https://github.com/resin-io-library/base-images), the source code of the resin.io systemd-enabled Docker base images
 * [resin-supervisor](https://github.com/resin-io/resin-supervisor), resin.io's agent on devices
+
+## Other projects by the resin.io team
+
+* [Etcher](https://etcher.io/), burn images to SD cards & USB drives, safe & easy.
 
 ## License
 
