@@ -1,21 +1,6 @@
 # Awesome balena.io [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-
 A curated list of helpful balena resources.
-
-## Table of Content
-
-* [Awesome balena.io <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/d3e4785b25c9fff7a488fac6ae97b6d9a9485106/68747470733a2f2f617765736f6d652e72652f62616467652d666c6174322e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge-flat2.svg" style="max-width:100\x;"></a>](#awesome-balenaio-)
-  * [Boilerplates &amp; Examples](#boilerplates--examples)
-  * [Software Development Kit](#software-development-kit)
-  * [Fullfledged Projects](#fullfledged-projects)
-  * [Blogposts](#blogposts)
-      * [Knowhow](#knowhow)
-      * [Projects](#projects)
-  * [Balena Platform Components](#balena-platform-components)
-  * [Other projects by the balena team](#other-projects-by-the-balena-team)
-  * [Contributing](#contributing)
-  * [License](#license)
 
 ## Boilerplates & Examples
 
