@@ -64,6 +64,10 @@ Blogposts that are great tutorial for balena or describe interesting projects to
 
 * [balenaEtcher](https://www.balena.io/etcher/), burn images to SD cards & USB drives, safe & easy.
 
+## Contributing
+
+Created something cool our found something interesting online? Send us a pull request!
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
