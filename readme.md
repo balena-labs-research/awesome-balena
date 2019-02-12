@@ -1,4 +1,4 @@
-# Awesome balena.io [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome balena.io [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of helpful balena.io resources.
 
@@ -11,6 +11,7 @@ Boilerplate projects for understanding and getting started with different balena
 * [Simple Server Node.js](https://github.com/balena-io-projects/simple-server-node), a simple express server with balena.
 * [Rust Hello World](https://github.com/balena-io-projects/balena-rust-hello-world), example of how to deploy Rust code on a balena supported device.
 * [C++ Hello World](https://github.com/balena-io-projects/balena-cpp-hello-world), example of how to deploy C++ code on a balena supported device.
+* [Golang Hello World](https://github.com/balena-io-projects/balena-go-hello-world), starting project to deploy a Golang project on balena supported devices.
 * [Timezone](https://github.com/balena-io-playground/balena-timezone), example to set the timezone on a balena device.
 * [balena-wifi-connect](https://github.com/balena-io/wifi-connect), an app skeleton/addon to allow WiFi configuration to be set via a captive portal, besides your normal application.
 
