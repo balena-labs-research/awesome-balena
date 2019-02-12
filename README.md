@@ -8,8 +8,7 @@ A curated list of helpful balena resources.
 * [Software Development Kit](#software-development-kit)
 * [Fullfledged Projects](#fullfledged-projects)
 * [Blogposts](#blogposts)
-  * [Knowhow](#knowhow)
-  * [Projects](#projects)
+  * [Community Projects And Posts](#community-projects-and-posts)
 * [Balena Platform Components](#balena-platform-components)
 * [Other projects by the balena team](#other-projects-by-the-balena-team)
 * [Contributing](#contributing)
@@ -27,6 +26,8 @@ Boilerplate projects for understanding and getting started with different balena
 * [Golang Hello World](https://github.com/balena-io-projects/balena-go-hello-world), starting project to deploy a Golang project on balena supported devices.
 * [Timezone](https://github.com/balena-io-playground/balena-timezone), example to set the timezone on a balena device.
 * [balena-wifi-connect](https://github.com/balena-io/wifi-connect), an app skeleton/addon to allow WiFi configuration to be set via a captive portal, besides your normal application.
+* [Balena Sense-hat Python Starter](https://github.com/balena-io-playground/balena-sense-hat-python-starter), a starter project with Python3 and Sense-HAT library ready to go.
+* [Balena Sense-hat Node.js Starter](https://github.com/balena-io-playground/node-sense-hat), a starter project with Node.js and Sense-HAT library ready to go.
 
 ## Software Development Kit
 
@@ -41,6 +42,7 @@ Collection of Software Development Kits to interact with the balena platform pro
 Full projects built on top of balena:
 
 * [Boombeastic](https://github.com/balena-io-projects/boombeastic), a Raspberry Pi based smart connected speaker based on Mopidy.
+* [Balena Cam](https://github.com/balena-io-playground/balena-cam), share your balena device's camera feed with multiple peers.
 * [resin-electronjs](https://github.com/balena-io/resin-electronjs), a electronJS-based balena application template which can be used for easy digital signage or dashboard setup.
 * [balena-wpe](https://github.com/balena-io-projects/balena-wpe), running a fullscreen browser, WPEWebkit by the [Web Platform for Embedded project](https://github.com/WebPlatformForEmbedded), with hardware accelerated CSS, WebGL, and HTML5 video on the RaspberryPi 3.
 
@@ -48,32 +50,35 @@ Full projects built on top of balena:
 
 Blogposts that are great tutorial for balena or describe interesting projects to learn from:
 
-* [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/).
-* [Create a GPS tracking system with cell connectivity and minimal bandwidth](https://www.balena.io/blog/balena-fin-gps-tracker-project/).
-* [Build festive lighting for the holidays with balena](https://www.balena.io/blog/build-festive-lighting-for-the-holidays-with-balena/).
-* [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/).
-* [Build a Bitcoin traffic light with balenaCloud](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/).
 * [Add a cheap ILI9341 LCD to your balena Raspberry Pi project](https://www.balena.io/blog/add-a-cheap-ili9341-lcd-to-your-resin-io-raspberry-pi-project/).
+* [Build a Bitcoin traffic light with balenaCloud](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/).
+* [Build festive lighting for the holidays with balena](https://www.balena.io/blog/build-festive-lighting-for-the-holidays-with-balena/).
+* [Create a GPS tracking system with cell connectivity and minimal bandwidth](https://www.balena.io/blog/balena-fin-gps-tracker-project/).
+* [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/).
+* [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/).
 
-### Knowhow
+### Projects And Posts
 
-* Getting started:
-  * [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/).
-* Distributed compute service with OpenWisk:
-  * Part 1 - [Exploring interoperability between OpenWhisk and resin.io for IoT](https://medium.com/openwhisk/exploring-interoperability-between-openwhisk-and-resin-io-for-iot-3d6f7facd23b).
-  * Part 2 - [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de).
-
-### Projects
-
+* [Balena-dashboards with ElectronJS](https://github.com/willswire/balena-dashboards), an alternative to the Balena-dash project., his one runs on ElectronJS.
+* [Balena Electron Vuecli3](https://github.com/Lurow/balena-electron-vuecli3), Vue Cli 3 Hello World generated Project Ready for Balena.
+* [Balena and Eduroam](https://medium.com/@bucknall/balenaos-connecting-to-eduroam-26312e7859b5), connecting to Eduroam.
+* [Balena Pi-Hole](https://github.com/klutchell/balena-pihole), raspberryPi 3 balenaCloud stack with Pi-hole, PADD, & Unbound.
+* [Balena Sense](https://github.com/balena-io-playground/balena-sense), example of using the Pi, Sense-HAT, InfluxDB and Grafana.
+* [Balena temperatures](https://github.com/willswire/balena-temperatures), record temperatures with TEMPer USB devices.
+* [Dog Temp Texter](https://github.com/sako0938/DogTempTexter), this system is designed to connect to a wireless network and send texts to a user about a temperature sensor. The user can setup alerts that will send additional messenges.
+* [ETA Nixie Tube Clocks](https://surfncircuits.com/2018/12/17/easy-iot-fleet-deployment-of-eta-nixie-tube-clocks/),x easy IoT Fleet Deployment of ETA Nixie Tube Clocks.
 * [LEGO Macintosh Classic with e‑paper display](https://jann.is/lego-macintosh-classic/).
+* [Repetier Server](https://nixstuff.tech/how-to/running-repetier-server-on-rpi3-with-balena-os/), running Repetier Server on RPI3 with Balena OS.
+* [Sonar](https://github.com/databat-io/sonar),Scan the surrounding for BLE devices and produce user friendly reports for said data.
+* [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/).'
 
 ## Balena Platform Components
 
-* [meta-balena](https://github.com/balena-os/meta-balena), a Yocto layer used to build balena operating system images.
 * [balena base images](https://github.com/balena-io-library/base-images), the source code of the balena systemd-enabled Docker base images.
 * [balena-supervisor](https://github.com/balena-io/balena-supervisor), balena's agent on devices.
+* [meta-balena](https://github.com/balena-os/meta-balena), a Yocto layer used to build balena operating system images.
 
-## Other projects by balena
+## Other Projects by Balena
 
 * [balenaEtcher](https://www.balena.io/etcher/), burn images to SD cards & USB drives, safe & easy.
 * [balenaOS](https://www.balena.io/os/), a host OS tailored for containers, designed for reliability, proven in production.
