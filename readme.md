@@ -1,6 +1,6 @@
 # Awesome balena.io [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of helpful balena.io resources.
+A curated list of helpful balena resources.
 
 ## Boilerplates & Examples
 
@@ -15,14 +15,6 @@ Boilerplate projects for understanding and getting started with different balena
 * [Timezone](https://github.com/balena-io-playground/balena-timezone), example to set the timezone on a balena device.
 * [balena-wifi-connect](https://github.com/balena-io/wifi-connect), an app skeleton/addon to allow WiFi configuration to be set via a captive portal, besides your normal application.
 
-## Fullfledged Projects
-
-Full projects built on top of balena:
-
-* [Boombeastic](https://github.com/balena-io-projects/boombeastic), a Raspberry Pi based smart connected speaker based on Mopidy.
-* [resin-electronjs](https://github.com/balena-io/resin-electronjs), a electronJS-based balena application template which can be used for easy digital signage or dashboard setup.
-* [balena-wpe](https://github.com/balena-io-projects/balena-wpe), running a fullscreen browser, WPEWebkit by the [Web Platform for Embedded project](https://github.com/WebPlatformForEmbedded), with hardware accelerated CSS, WebGL, and HTML5 video on the RaspberryPi 3.
-
 ## Software Development Kit
 
 Collection of Software Development Kits to interact with the balena platform programically:
@@ -31,14 +23,29 @@ Collection of Software Development Kits to interact with the balena platform pro
 * [Python SDK](https://github.com/balena-io/balena-sdk-python)
 * [Go SDK](https://github.com/gernest/resingo) (unofficial)
 
+## Fullfledged Projects
+
+Full projects built on top of balena:
+
+* [Boombeastic](https://github.com/balena-io-projects/boombeastic), a Raspberry Pi based smart connected speaker based on Mopidy.
+* [resin-electronjs](https://github.com/balena-io/resin-electronjs), a electronJS-based balena application template which can be used for easy digital signage or dashboard setup.
+* [balena-wpe](https://github.com/balena-io-projects/balena-wpe), running a fullscreen browser, WPEWebkit by the [Web Platform for Embedded project](https://github.com/WebPlatformForEmbedded), with hardware accelerated CSS, WebGL, and HTML5 video on the RaspberryPi 3.
+
 ## Blogposts
 
-Blogposts that are great tutorial for balena.io or describe interesting projects to learn from:
+Blogposts that are great tutorial for balena or describe interesting projects to learn from:
+
+* [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/)
+* [Create a GPS tracking system with cell connectivity and minimal bandwidth](https://www.balena.io/blog/balena-fin-gps-tracker-project/)
+* [Build festive lighting for the holidays with balena](https://www.balena.io/blog/build-festive-lighting-for-the-holidays-with-balena/)
+* [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/)
+* [Build a Bitcoin traffic light with balenaCloud](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/)
+* [Add a cheap ILI9341 LCD to your balena Raspberry Pi project](https://www.balena.io/blog/add-a-cheap-ili9341-lcd-to-your-resin-io-raspberry-pi-project/)
 
 ### Knowhow
 
 * Getting started:
-  * [Take Resin.io for a test-drive](http://blog.alexellis.io/resin-io-test-drive/)
+  * [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/)
 * Distributed compute service with OpenWisk:
   * Part 1 - [Exploring interoperability between OpenWhisk and resin.io for IoT](https://medium.com/openwhisk/exploring-interoperability-between-openwhisk-and-resin-io-for-iot-3d6f7facd23b),
   * Part 2 - [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de)
