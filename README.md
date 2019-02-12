@@ -25,7 +25,7 @@ Boilerplate projects for understanding and getting started with different balena
 * [C++ Hello World](https://github.com/balena-io-projects/balena-cpp-hello-world), example of how to deploy C++ code on a balena supported device.
 * [Golang Hello World](https://github.com/balena-io-projects/balena-go-hello-world), starting project to deploy a Golang project on balena supported devices.
 * [Timezone](https://github.com/balena-io-playground/balena-timezone), example to set the timezone on a balena device.
-* [balena-wifi-connect](https://github.com/balena-io/wifi-connect), an app skeleton/addon to allow WiFi configuration to be set via a captive portal, besides your normal application.
+* [Balena WiFi Connect](https://github.com/balena-io/wifi-connect), an app skeleton/addon to allow WiFi configuration to be set via a captive portal, besides your normal application.
 * [Balena Sense-hat Python Starter](https://github.com/balena-io-playground/balena-sense-hat-python-starter), a starter project with Python3 and Sense-HAT library ready to go.
 * [Balena Sense-hat Node.js Starter](https://github.com/balena-io-playground/node-sense-hat), a starter project with Node.js and Sense-HAT library ready to go.
 
