@@ -8,7 +8,7 @@ A curated list of helpful balena resources.
 * [Software Development Kit](#software-development-kit)
 * [Fullfledged Projects](#fullfledged-projects)
 * [Blogposts](#blogposts)
-  * [Community Projects And Posts](#community-projects-and-posts)
+  * [Projects And Posts](#community-projects-and-posts)
 * [Balena Platform Components](#balena-platform-components)
 * [Other projects by the balena team](#other-projects-by-the-balena-team)
 * [Contributing](#contributing)
@@ -59,18 +59,15 @@ Blogposts that are great tutorial for balena or describe interesting projects to
 
 ### Projects And Posts
 
-* [Balena-dashboards with ElectronJS](https://github.com/willswire/balena-dashboards), an alternative to the Balena-dash project., his one runs on ElectronJS.
-* [Balena Electron Vuecli3](https://github.com/Lurow/balena-electron-vuecli3), Vue Cli 3 Hello World generated Project Ready for Balena.
 * [Balena and Eduroam](https://medium.com/@bucknall/balenaos-connecting-to-eduroam-26312e7859b5), connecting to Eduroam.
 * [Balena Pi-Hole](https://github.com/klutchell/balena-pihole), raspberryPi 3 balenaCloud stack with Pi-hole, PADD, & Unbound.
 * [Balena Sense](https://github.com/balena-io-playground/balena-sense), example of using the Pi, Sense-HAT, InfluxDB and Grafana.
-* [Balena temperatures](https://github.com/willswire/balena-temperatures), record temperatures with TEMPer USB devices.
+* [Balena Temperatures](https://github.com/willswire/balena-temperatures), record temperatures with TEMPer USB devices.
 * [Dog Temp Texter](https://github.com/sako0938/DogTempTexter), this system is designed to connect to a wireless network and send texts to a user about a temperature sensor. The user can setup alerts that will send additional messenges.
-* [ETA Nixie Tube Clocks](https://surfncircuits.com/2018/12/17/easy-iot-fleet-deployment-of-eta-nixie-tube-clocks/),x easy IoT Fleet Deployment of ETA Nixie Tube Clocks.
+* [ETA Nixie Tube Clocks](https://surfncircuits.com/2018/12/17/easy-iot-fleet-deployment-of-eta-nixie-tube-clocks/), easy IoT Fleet Deployment of ETA Nixie Tube Clocks.
 * [LEGO Macintosh Classic with e‑paper display](https://jann.is/lego-macintosh-classic/).
-* [Repetier Server](https://nixstuff.tech/how-to/running-repetier-server-on-rpi3-with-balena-os/), running Repetier Server on RPI3 with Balena OS.
-* [Sonar](https://github.com/databat-io/sonar),Scan the surrounding for BLE devices and produce user friendly reports for said data.
-* [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/).'
+* [Sonar](https://github.com/databat-io/sonar), scan the surrounding for BLE devices and produce user friendly reports for said data.
+* [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/).
 
 ## Balena Platform Components
 
