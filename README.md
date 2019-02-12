@@ -19,7 +19,7 @@ A curated list of helpful balena resources.
 
 Boilerplate projects for understanding and getting started with different balena features.
 
-* [Idling](https://github.com/balena-io-projects/balena-idling), likely the most minimal balena project, for the most barebones & quickest way to get started
+* [Idling](https://github.com/balena-io-projects/balena-idling), likely the most minimal balena project, for the most barebones & quickest way to get started.
 * [Simple Server Python](https://github.com/balena-io-projects/simple-server-python), a simple Hello World server with Python Flask.
 * [Simple Server Node.js](https://github.com/balena-io-projects/simple-server-node), a simple express server with balena.
 * [Rust Hello World](https://github.com/balena-io-projects/balena-rust-hello-world), example of how to deploy Rust code on a balena supported device.
@@ -32,9 +32,9 @@ Boilerplate projects for understanding and getting started with different balena
 
 Collection of Software Development Kits to interact with the balena platform programically:
 
-* [Node.js SDK](https://github.com/balena-io/balena-sdk)
-* [Python SDK](https://github.com/balena-io/balena-sdk-python)
-* [Go SDK](https://github.com/gernest/resingo) (unofficial)
+* [Node.js SDK](https://github.com/balena-io/balena-sdk).
+* [Python SDK](https://github.com/balena-io/balena-sdk-python).
+* [Go SDK](https://github.com/gernest/resingo) (unofficial).
 
 ## Fullfledged Projects
 
@@ -48,34 +48,38 @@ Full projects built on top of balena:
 
 Blogposts that are great tutorial for balena or describe interesting projects to learn from:
 
-* [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/)
-* [Create a GPS tracking system with cell connectivity and minimal bandwidth](https://www.balena.io/blog/balena-fin-gps-tracker-project/)
-* [Build festive lighting for the holidays with balena](https://www.balena.io/blog/build-festive-lighting-for-the-holidays-with-balena/)
-* [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/)
-* [Build a Bitcoin traffic light with balenaCloud](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/)
-* [Add a cheap ILI9341 LCD to your balena Raspberry Pi project](https://www.balena.io/blog/add-a-cheap-ili9341-lcd-to-your-resin-io-raspberry-pi-project/)
+* [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/).
+* [Create a GPS tracking system with cell connectivity and minimal bandwidth](https://www.balena.io/blog/balena-fin-gps-tracker-project/).
+* [Build festive lighting for the holidays with balena](https://www.balena.io/blog/build-festive-lighting-for-the-holidays-with-balena/).
+* [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/).
+* [Build a Bitcoin traffic light with balenaCloud](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/).
+* [Add a cheap ILI9341 LCD to your balena Raspberry Pi project](https://www.balena.io/blog/add-a-cheap-ili9341-lcd-to-your-resin-io-raspberry-pi-project/).
 
 ### Knowhow
 
 * Getting started:
-  * [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/)
+  * [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/).
 * Distributed compute service with OpenWisk:
-  * Part 1 - [Exploring interoperability between OpenWhisk and resin.io for IoT](https://medium.com/openwhisk/exploring-interoperability-between-openwhisk-and-resin-io-for-iot-3d6f7facd23b),
-  * Part 2 - [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de)
+  * Part 1 - [Exploring interoperability between OpenWhisk and resin.io for IoT](https://medium.com/openwhisk/exploring-interoperability-between-openwhisk-and-resin-io-for-iot-3d6f7facd23b).
+  * Part 2 - [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de).
 
 ### Projects
 
-* [LEGO Macintosh Classic with e‑paper display](https://jann.is/lego-macintosh-classic/)
+* [LEGO Macintosh Classic with e‑paper display](https://jann.is/lego-macintosh-classic/).
 
 ## Balena Platform Components
 
-* [meta-balena](https://github.com/balena-os/meta-balena), a Yocto layer used to build balena operating system images
-* [balena base images](https://github.com/balena-io-library/base-images), the source code of the balena systemd-enabled Docker base images
-* [balena-supervisor](https://github.com/balena-io/balena-supervisor), balena's agent on devices
+* [meta-balena](https://github.com/balena-os/meta-balena), a Yocto layer used to build balena operating system images.
+* [balena base images](https://github.com/balena-io-library/base-images), the source code of the balena systemd-enabled Docker base images.
+* [balena-supervisor](https://github.com/balena-io/balena-supervisor), balena's agent on devices.
 
-## Other projects by the balena team
+## Other projects by balena
 
 * [balenaEtcher](https://www.balena.io/etcher/), burn images to SD cards & USB drives, safe & easy.
+* [balenaOS](https://www.balena.io/os/), a host OS tailored for containers, designed for reliability, proven in production.
+* [balenaEngine](https://www.balena.io/engine/), an engine purpose-built for embedded and IoT use cases, based on Moby Project technology from Docker.
+* [balenaFin](https://www.balena.io/fin/), the balenaFin is a professional carrier board for the Raspberry Pi Compute Module.
+* [openBalena](https://www.balena.io/open/), open source software to manage connected IoT devices.
 
 ## Contributing
 
