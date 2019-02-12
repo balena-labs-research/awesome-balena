@@ -1,4 +1,4 @@
-# Awesome balena.io [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome balena [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of helpful balena resources.
 
