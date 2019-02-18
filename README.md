@@ -54,6 +54,7 @@ Blogposts that are great tutorial for balena or describe interesting projects to
 * [Build a Bitcoin traffic light with balenaCloud](https://www.balena.io/blog/build-a-bitcoin-traffic-light-with-balenacloud/).
 * [Build festive lighting for the holidays with balena](https://www.balena.io/blog/build-festive-lighting-for-the-holidays-with-balena/).
 * [Create a GPS tracking system with cell connectivity and minimal bandwidth](https://www.balena.io/blog/balena-fin-gps-tracker-project/).
+* [Deploy network-wide ad-blocking with Pi-hole and a Raspberry Pi](https://www.balena.io/blog/deploy-network-wide-ad-blocking-with-pi-hole-and-a-raspberry-pi/).
 * [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/).
 * [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/).
 
