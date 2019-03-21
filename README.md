@@ -57,6 +57,8 @@ Blogposts that are great tutorial for balena or describe interesting projects to
 * [Deploy network-wide ad-blocking with Pi-hole and a Raspberry Pi](https://www.balena.io/blog/deploy-network-wide-ad-blocking-with-pi-hole-and-a-raspberry-pi/).
 * [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/).
 * [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/).
+* [Running a full desktop in a container](https://www.balena.io/blog/running-a-desktop-manager-with-balena/)
+* [Running a GUI application with balenaCloud via VNC](https://www.balena.io/blog/running-a-gui-application-with-balenacloud/)
 
 ### Projects And Posts
 
