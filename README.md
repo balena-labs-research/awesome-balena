@@ -45,6 +45,7 @@ Full projects built on top of balena:
 * [Balena Cam](https://github.com/balena-io-playground/balena-cam), share your balena device's camera feed with multiple peers.
 * [resin-electronjs](https://github.com/balena-io/resin-electronjs), a electronJS-based balena application template which can be used for easy digital signage or dashboard setup.
 * [balena-wpe](https://github.com/balena-io-projects/balena-wpe), running a fullscreen browser, WPEWebkit by the [Web Platform for Embedded project](https://github.com/WebPlatformForEmbedded), with hardware accelerated CSS, WebGL, and HTML5 video on the RaspberryPi 3.
+* [Build a Raspberry Pi-based network camera using WebRTC](https://www.balena.io/blog/build-a-raspberry-pi-based-network-camera/).
 
 ## Blogposts
 
@@ -57,18 +58,28 @@ Blogposts that are great tutorial for balena or describe interesting projects to
 * [Deploy network-wide ad-blocking with Pi-hole and a Raspberry Pi](https://www.balena.io/blog/deploy-network-wide-ad-blocking-with-pi-hole-and-a-raspberry-pi/).
 * [Make a web frame with Raspberry Pi in 30 minutes](https://www.balena.io/blog/make-a-web-frame-with-raspberry-pi-in-30-minutes/).
 * [Monitoring your balena devices with Datadog](https://www.balena.io/blog/monitoring-your-balena-devices-with-datadog/).
+* [Screenly OSE and Raspberry Pi](https://www.balena.io/blog/deploy-free-digital-signage-software-screenly-ose/), get up and running with a display you can control remotely to display photos, videos, dashboards, web pages, and digital signage.
+* [Deploy a fleet of environmental sensors with balena & InfluxDB](https://www.balena.io/blog/deploy-a-fleet-of-environmental-sensors-with-balena-influxdb/).
+* Sensors and Data Logging with Embedded Linux - The Ultimate Guide: [Part 1](https://www.balena.io/blog/sensors-and-data-logging-with-embedded-linux-the-ultimate-guide-part-1/),[Part 2: Build A Sensor Dashboard](https://www.balena.io/blog/logging-data-with-balena-part-2-build-a-sensor-dashboard/), [Part 3: Multi-Device Sensor Dashboard](https://www.balena.io/blog/sensors-and-data-logging-with-embedded-linux-the-ultimate-guide-part-3-multi-device-sensor-dashboard/).
+* [How to keep your device up and running during power outages](https://www.balena.io/blog/how-to-keep-your-device-up-and-running-during-power-outages/).
+* [Running a GUI application with balenaCloud](https://www.balena.io/blog/running-a-gui-application-with-balenacloud/).
+* [Running a full desktop in a container](https://www.balena.io/blog/running-a-desktop-manager-with-balena/).
 
 ### Projects And Posts
 
 * [Balena and Eduroam](https://medium.com/@bucknall/balenaos-connecting-to-eduroam-26312e7859b5), connecting to Eduroam.
 * [Balena Pi-Hole](https://github.com/klutchell/balena-pihole), raspberryPi 3 balenaCloud stack with Pi-hole, PADD, & Unbound.
-* [Balena Sense](https://github.com/balena-io-playground/balena-sense), example of using the Pi, Sense-HAT, InfluxDB and Grafana.
+* [Balena Sense](https://github.com/balena-io-playground/balena-sensehat-example), example of using the Pi, Sense-HAT, InfluxDB and Grafana.
 * [Balena Temperatures](https://github.com/willswire/balena-temperatures), record temperatures with TEMPer USB devices.
 * [Dog Temp Texter](https://github.com/sako0938/DogTempTexter), this system is designed to connect to a wireless network and send texts to a user about a temperature sensor. The user can setup alerts that will send additional messenges.
 * [ETA Nixie Tube Clocks](https://surfncircuits.com/2018/12/17/easy-iot-fleet-deployment-of-eta-nixie-tube-clocks/), easy IoT Fleet Deployment of ETA Nixie Tube Clocks.
 * [LEGO Macintosh Classic with e‑paper display](https://jann.is/lego-macintosh-classic/).
 * [Sonar](https://github.com/databat-io/sonar), scan the surrounding for BLE devices and produce user friendly reports for said data.
 * [Take Balena for a test-drive](http://blog.alexellis.io/resin-io-test-drive/).
+* [Build an air quality monitor with InfluxDB, Grafana, and Docker on a Raspberry Pi](https://www.balena.io/blog/build-an-environment-and-air-quality-monitor-with-raspberry-pi/)
+
+### Balena Fin
+* [Build a TTN LoRa Gateway with balenaFin and balenaCloud](https://www.balena.io/blog/build-a-ttn-lora-gateway-with-balenafin-and-balenacloud/).
 
 ## Balena Platform Components
 
