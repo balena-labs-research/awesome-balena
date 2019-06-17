@@ -83,6 +83,7 @@ Blogposts that are great tutorial for balena or describe interesting projects to
 * [balenaEngine](https://www.balena.io/engine/), an engine purpose-built for embedded and IoT use cases, based on Moby Project technology from Docker.
 * [balenaFin](https://www.balena.io/fin/), the balenaFin is a professional carrier board for the Raspberry Pi Compute Module.
 * [openBalena](https://www.balena.io/open/), open source software to manage connected IoT devices.
+* [Awesome balenaFin](https://github.com/balena-io-playground/awesome-balena-fin), balenaFin specific list of awesomeness.
 
 ## Contributing
 
