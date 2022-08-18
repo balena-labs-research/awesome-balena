@@ -30,6 +30,7 @@ You can [contribute](#contributing) your own tool to the list by creating a pull
 - [balenaEngine](https://www.balena.io/engine/), an engine purpose-built for embedded and IoT use cases, based on Moby Project technology from Docker.
 - [balenaFin](https://www.balena.io/fin/), the balenaFin is a professional carrier board for the Raspberry Pi Compute Module.
 - [openBalena](https://www.balena.io/open/), open source software to manage connected IoT devices.
+- [balena CLI](https://github.com/balena-io/balena-cli/), the official balena Command Line Interface. 
 
 ## Developer Tools
 
