@@ -36,6 +36,7 @@ You can [contribute](#contributing) your own tool to the list by creating a pull
 
 ### CLIs
 
+- [Automated Offline Update](https://gist.github.com/phaseOne/858e3f15763e1adf650ff7dbdb3139ba): Automates a Balena Offline Update on an SD card based on the steps in the [Offline Updates](https://www.balena.io/docs/learn/deploy/offline-updates/) section of the Balena Documentation.
 - [GoLang CLI](https://github.com/balena-community/go-cli): An experimental community project that provides some of the basic balena CLI functions in Golang
 
 ### GitHub Actions
