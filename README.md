@@ -30,18 +30,18 @@ You can [contribute](#contributing) your own tool to the list by creating a pull
 - [balenaEngine](https://www.balena.io/engine/), an engine purpose-built for embedded and IoT use cases, based on Moby Project technology from Docker.
 - [balenaFin](https://www.balena.io/fin/), the balenaFin is a professional carrier board for the Raspberry Pi Compute Module.
 - [openBalena](https://www.balena.io/open/), open source software to manage connected IoT devices.
-- [balena CLI](https://github.com/balena-io/balena-cli/), the official balena Command Line Interface. 
+- [balena CLI](https://github.com/balena-io/balena-cli/), the official balena Command Line Interface.
 
 ## Developer Tools
 
 ### CLIs
 
 - [Automated Offline Update](https://gist.github.com/phaseOne/858e3f15763e1adf650ff7dbdb3139ba): Automates a Balena Offline Update on an SD card based on the steps in the [Offline Updates](https://www.balena.io/docs/learn/deploy/offline-updates/) section of the Balena Documentation.
-- [GoLang CLI](https://github.com/balena-community/go-cli): An experimental community project that provides some of the basic balena CLI functions in Golang
+- [GoLang CLI](https://github.com/balena-labs-research/go-cli): An experimental community project that provides some of the basic balena CLI functions in Golang
 
 ### GitHub Actions
 
-- [Community CLI Action](https://github.com/balena-community/community-cli-action): A community built GitHub action that allows you to use the balena CLI to deploy or preload images from a GitHub worker.
+- [Community CLI Action](https://github.com/balena-labs-research/community-cli-action): A community built GitHub action that allows you to use the balena CLI to deploy or preload images from a GitHub worker.
 - [Open Balena CLI](https://github.com/Solar-Control/open-balena-cli-action): Continuously deliver your applications to OpenBalena
 
 ### SDKs
@@ -55,7 +55,6 @@ You can [contribute](#contributing) your own tool to the list by creating a pull
 
 - [Open balena Admin](https://github.com/dcaputo-harmoni/open-balena-admin): Open source admin interface for openbalena.
 - [Open balena dashboard and app](https://github.com/Razikus/open-balena-dashboard): Open balena dashboard and mobile application.
-
 
 # Contributing
 
